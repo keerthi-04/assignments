@@ -1,0 +1,176 @@
+
+		h1{
+			text-align: center;
+		}
+		.part1{
+			text-align: center;
+			border: 1px solid black;
+			margin: 25px;
+			padding:10px;
+			width: 40%;
+		}
+		#part2{
+
+			border: 1px solid black;
+			margin: 25px;
+			padding: 10px;
+			width: 60%;
+		}
+		table{
+			text-align: center;
+			border-collapse: collapse;
+		}
+		th,td{
+			padding: 5px;
+		}
+		img{
+			width: 60%;
+			margin: 10px;
+			border: 2px solid black;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		button{
+			margin-top: 15px;
+		}
+		main{
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+			border: 2px solid black;
+			
+
+		}
+
+
+
+@media only screen and (min-width: 0px) and (max-width: 480px){
+
+
+		h1{
+			text-align: center;
+		}
+		.part1{
+			text-align: center;
+			border: 1px solid black;
+			margin: 10px;
+			padding:5px;
+			width: 80%;
+			background-color: yellow;
+		}
+		#part2{
+
+			border: 1px solid black;
+			margin: 10px;
+			padding: 5px;
+			width: 80%;
+			background-color: yellow;
+		}
+		table{
+			margin:5px;
+			padding:1px;
+			text-align: center;
+			border-collapse: collapse;
+			overflow-x: auto;
+	
+		}
+		img{
+			width: 60%;
+			margin: 10px;
+			border: 2px solid black;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		main{
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+
+
+		}
+	}
+
+
+@media only screen and (min-width: 800px) and (max-width: 1480px){
+			h1{
+			text-align: center;
+		}
+		.part1{
+			text-align: center;
+			border: 1px solid black;
+			margin: 25px;
+			padding:25px;
+			width: 20%;
+			
+		}
+		#part2{
+
+			border: 1px solid black;
+			margin: 25px;
+			padding: 25px;
+			width: 40%;
+		}
+		table{
+			margin:5px;
+			padding:1px;
+			text-align: center;
+			border-collapse: collapse;
+		}
+		img{
+			width: 100%;
+			margin: 10px;
+			border: 2px solid black;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		main{
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+
+		}
+	}
+
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 1204px){
+			h1{
+			text-align: center;
+		}
+		.part1{
+			text-align: center;
+			border: 1px solid black;
+			margin: 25px;
+			padding:2px;
+			width: 40%;
+			background-color: aqua;
+		}
+		#part2{
+
+			border: 1px solid black;
+			margin: 25px;
+			padding: 10px;
+			width: 60%;
+			background-color: aqua;
+		}
+		table{
+			margin:5px;
+			padding:1px;
+			text-align: center;
+			border-collapse: collapse;
+		}
+		img{
+			width: 60%;
+			margin: 10px;
+			border: 2px solid black;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		main{
+			display: flex;
+			justify-content: space-around;
+			flex-wrap: wrap;
+
+		}
+	}

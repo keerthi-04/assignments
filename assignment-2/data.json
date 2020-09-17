@@ -1,0 +1,19 @@
+{
+	"applications":[
+		{
+			"name":"G.Keerthi",
+			"PhoneNo": 9999999999,
+			"email": "keerthireddy.kr75@gmail.com",
+			"address":"kurnool district,kallur mandal,518002",
+			"anch":"/keerthi-resume/keerthi-resume.html"
+		},
+		{
+			"name":"k.sandhya",
+			"PhoneNo": 6666666666,
+			"email": "sandhyasandy@gmail.com",
+			"address":"nandyal district,518001",
+			"anch":"/keerthi-resume/sandhya-resume.html"
+		}
+	]
+	
+}
